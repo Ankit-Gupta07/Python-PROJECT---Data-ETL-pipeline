@@ -22,7 +22,7 @@ The end goal of the notebook is to combine these data sets together so that we c
 
 ## Files
 - **kaggle/input** - a folder which contains all the datasets
-- **DF to DB.csv** - a CSV file used to read the data into pandas df and then storing it in a PostgreSQL (exavtly like the table present in PostgreSQL)
+- **DF to DB.csv** - a CSV file used to read the data into pandas df & then storing it in a PostgreSQL table
 - **ETL_project.ipynb** - a Jupyter notebook which has everything in it - code + comments + markdowns for explanations
 - **Video - preview.mp4** - a small gist of how the notebook looks like
 
