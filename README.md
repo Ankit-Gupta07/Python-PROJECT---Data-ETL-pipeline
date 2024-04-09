@@ -3,7 +3,7 @@ A jupyter notebook with simple explanations for all of the code. The code EXTRAC
 
 # ETL: Extract, Transform, Load with Python
 <br>Welcome to the repository ! This project showcases the entire process of "data ETL". Its main goal is to illustrate the ETL process through a Python-based implementation. The project is structured into three main sections: Extract, Transform, and Load. Each section performs its designated tasks -
-i) **EXTRACT** - We first extract data from these sources - CSVs, APIs, JSONs, XMLs, Databases (SQLite & PostgreSQL) & store it in a pandas dataframe using Python libraries like pandas, requests, BeautifulSoup, sqlite3, and pyscopg2.
+<br>i) **EXTRACT** - We first extract data from these sources - CSVs, APIs, JSONs, XMLs, Databases (SQLite & PostgreSQL) & store it in a pandas dataframe using Python libraries like pandas, requests, BeautifulSoup, sqlite3, and pyscopg2.
 
 ii) **TRANSFORM** - Here we make the data more suitable for analysis by applying these steps on data - combine, clean, type conversion, handle missing & duplicate values, fitting a linear regression model, finding & removing outliers, feature scaling and engineering using Python libraries like numpy, pandas, pycountry, sklearn, and matplotlib.  
 
