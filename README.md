@@ -31,8 +31,7 @@ The end goal of the notebook is to combine these data sets together so that we c
 2. Install Dependencies: Make sure you have all the required packages mentioned in the code installed in your environment.
 3. Navigate to the Jupyter Notebook: Open the Jupyter Notebook (ETL_Project.ipynb) to access the code and explanations.
 4. Execute the Code: Follow the step-by-step instructions provided in the notebook to perform the ETL process.
-
-Execute the Code:
+   
 ## Getting Started
 To get started, clone this repository to your local machine and open the ipynb file. Start going through the notebook and execute the code using the explanations and comments given to perform ETL on raw data. 
 
