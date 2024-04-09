@@ -21,10 +21,10 @@ The end goal of the notebook is to combine these data sets together so that we c
 - **Screenshots**: showcases different case-scenarios
 
 ## Files
-- **Dataset (Excel files)**: Locations Report, Request Status Report, Service Type Report
-- **Dashboard (pbix file)**: Service request dashboard
-- **Static Preview (screenshot)**: Dashboard - PNG
-- **Dynamic Preview (recording)**: Video preview
+- **kaggle/input** - a folder which contains all the datasets
+- **DF to DB.csv** - a CSV file used to read the data into pandas df and then storing it in a PostgreSQL (exavtly like the table present in PostgreSQL)
+- **ETL_project.ipynb** - a Jupyter notebook which has everything in it - code + comments + markdowns for explanations
+- **Video - preview.mp4** - a small gist of how the notebook looks like
 
 ## How to Use
 1. Download the Python code: Clone or download the repository to your local machine.
