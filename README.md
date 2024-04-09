@@ -11,3 +11,31 @@ ii) **TRANSFORM** - Here we make the data more suitable for analysis by applying
 iii) **LOAD** - Lastly we store the transformed data into these destinations - CSVs, JSONs and Databases (SQLite & PostgreSQL) using Python libraries like pandas, sqlite, and pyscopg2
 
 The end goal of the notebook is to combine these data sets together so that we can run a machine learning model predicting World Bank Project total costs or the GDP of a country as per their population or anything you want."
+
+## Features
+- **Index**: navigates the user to any particular step in the entire process
+- **Code**: demonstrates each phase of the ETL process with explanatory comments to run the code
+- **Markdown**: gives an easy understanding of the concepts used throughout the notebook
+- **Viusalisation**: helps in understanding the spread of data and results of data transformations
+- **Diagram**: focuses on understanding the process-flow of steps
+- **Screenshots**: showcases different case-scenarios
+
+## Files
+- **Dataset (Excel files)**: Locations Report, Request Status Report, Service Type Report
+- **Dashboard (pbix file)**: Service request dashboard
+- **Static Preview (screenshot)**: Dashboard - PNG
+- **Dynamic Preview (recording)**: Video preview
+
+## How to Use
+1. Download the Python code: Clone or download the repository to your local machine.
+2. Install Dependencies: Make sure you have all the required packages mentioned in the code installed in your environment.
+3. Navigate to the Jupyter Notebook: Open the Jupyter Notebook (ETL_Project.ipynb) to access the code and explanations.
+4. Execute the Code: Follow the step-by-step instructions provided in the notebook to perform the ETL process.
+
+Execute the Code:
+## Getting Started
+To get started, clone this repository to your local machine and open the ipynb file. Start going through the notebook and execute the code using the explanations and comments given to perform ETL on raw data. 
+
+## Contributions and Feedbacks
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository. I appreciate your feedback and are committed to making this dashboard even better.
+Happy analyzing!
